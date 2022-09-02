@@ -1,2 +1,4 @@
 [submodule "pack/foo/start/nerdtree/"]
 	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/foo/start/taglist/"]
+	url = https://github.com/yegappan/taglist.git
