@@ -16,3 +16,5 @@ autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif
 nnoremap <C-n> :NERDTreeMirror<CR>:NERDTreeFocus<CR>
 
 
+" tagbar configuration
+nmap <F8> :TagbarToggle<CR>

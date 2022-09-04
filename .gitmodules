@@ -1,3 +1,6 @@
 [submodule "pack/foo/start/nerdtree"]
 	path = pack/foo/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/foo/start/tagbar"]
+	path = pack/foo/start/tagbar
+	url = https://github.com/preservim/tagbar.git
