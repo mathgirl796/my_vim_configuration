@@ -16,11 +16,3 @@ autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif
 nnoremap <C-n> :NERDTreeMirror<CR>:NERDTreeFocus<CR>
 
 
-" taglist configuretions
-nnoremap <silent> <F8> :TlistToggle<CR>
-let Tlist_Auto_Open = 1
-let Tlist_Exit_OnlyWindow = 1
-let Tlist_File_Fold_Auto_Close = 1
-let Tlist_Use_Right_Window = 1
-let Tlist_Inc_Winwidth = 0
-let Tlist_Compact_Format = 1
