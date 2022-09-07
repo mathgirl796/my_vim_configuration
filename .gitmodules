@@ -4,3 +4,6 @@
 [submodule "pack/foo/start/tagbar"]
 	path = pack/foo/start/tagbar
 	url = https://github.com/preservim/tagbar.git
+[submodule "pack/foo/start/nerdcommenter"]
+	path = pack/foo/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
